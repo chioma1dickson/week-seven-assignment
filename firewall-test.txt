@@ -1,0 +1,8 @@
+Testing port 22 (SSH):
+localhost [127.0.0.1] 22 (ssh) open
+
+Testing port 80 (HTTP):
+localhost [127.0.0.1] 80 (http) open
+
+Testing blocked port 21 (FTP):
+localhost [127.0.0.1] 21 (ftp) : Connection refused
