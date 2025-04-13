@@ -1,0 +1,14 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-13 13:10 EDT
+Stats: 0:00:58 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 28.43% done; ETC: 13:14 (0:02:26 remaining)
+Stats: 0:01:16 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 37.25% done; ETC: 13:14 (0:02:08 remaining)
+Stats: 0:01:17 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 37.75% done; ETC: 13:14 (0:02:07 remaining)
+Stats: 0:01:41 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 49.51% done; ETC: 13:14 (0:01:44 remaining)
+Stats: 0:01:42 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 50.00% done; ETC: 13:14 (0:01:43 remaining)
+Nmap scan report for 192.168.20.1
+Host is up.
+Nmap done: 256 IP addresses (1 host up) scanned in 209.02 seconds

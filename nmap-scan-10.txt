@@ -1,0 +1,21 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-13 13:07 EDT
+Stats: 0:00:15 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 7.35% done; ETC: 13:10 (0:03:09 remaining)
+Stats: 0:00:18 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 8.82% done; ETC: 13:10 (0:03:06 remaining)
+Stats: 0:00:21 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 10.29% done; ETC: 13:10 (0:03:12 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 13.73% done; ETC: 13:10 (0:03:02 remaining)
+Stats: 0:00:29 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 14.22% done; ETC: 13:10 (0:03:01 remaining)
+Stats: 0:01:06 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 32.35% done; ETC: 13:10 (0:02:20 remaining)
+Stats: 0:01:13 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 35.78% done; ETC: 13:10 (0:02:13 remaining)
+Stats: 0:01:20 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 39.22% done; ETC: 13:10 (0:02:06 remaining)
+Stats: 0:01:33 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 45.59% done; ETC: 13:10 (0:01:52 remaining)
+Stats: 0:01:34 elapsed; 0 hosts completed (0 up), 255 undergoing Ping Scan
+Ping Scan Timing: About 46.08% done; ETC: 13:10 (0:01:51 remaining)

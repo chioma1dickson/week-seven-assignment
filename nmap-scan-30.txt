@@ -1,0 +1,4 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-13 13:14 EDT
+Nmap scan report for 192.168.30.1
+Host is up.
+Nmap done: 256 IP addresses (1 host up) scanned in 207.88 seconds
